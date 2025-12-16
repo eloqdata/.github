@@ -5,10 +5,6 @@
 
   <h1>EloqData: Revolutionary Databases Powering the AI Age</h1>
   <br />
-  <a href="https://eloqdata.com/eloqkv/introduction">Docs</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://eloqdata.com/blog">Blog</a>
-  <br />
   <hr />
 </div>
 
@@ -27,9 +23,10 @@ For AI-native applications, **[EloqConverged](https://www.eloqdata.com/product/e
 [Learn more at eloqdata.com →](https://www.eloqdata.com)
 
 
-## 💚 Community
+## 💚 Community and Blog
 
-Join us on [Discord](https://discord.gg/nmYjBkfak6) to chat with the EloqData community, share, or ask questions.
+Join us on [Discord](https://discord.gg/nmYjBkfak6) to chat with the EloqData community, share, or ask questions. Come to learn more about EloqData's technology in our <a href="https://eloqdata.com/blog">Blog</a> 
+
 
 
 
