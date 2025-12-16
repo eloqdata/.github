@@ -1,11 +1,10 @@
 <div align="center">
   <a href='https://www.eloqdata.com'>
-    <img src="img/EloqDataLogo.jpg" alt="EloqData" height=100></img>
+    <img src="img/EloqDataLogo.jpg" alt="EloqData" height=80></img>
   </a>
 
   <h1>EloqData: Revolutionary Databases Powering the AI Age</h1>
   <br />
-  <hr />
 </div>
 
 **EloqData** is redefining database infrastructure for the AI era with our core innovation: the [Data Substrate](https://www.eloqdata.com/blog/2024/08/11/data-substrate)—a modular, cloud-native architecture that decouples compute, memory, logging, and storage for maximum elasticity and performance.
