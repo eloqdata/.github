@@ -3,7 +3,7 @@
     <img src="img/EloqDataLogo.jpg" alt="EloqData" height=80></img>
   </a>
 
-  <h1>EloqData: Revolutionary Databases Powering the AI Age</h1>
+  <h1>EloqData: Databases Powering the AI Age</h1>
   <br />
 </div>
 
